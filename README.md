@@ -6,6 +6,5 @@ from minmax import *
  
 maxval(array) //max value of list
 ************************************
-************************************
 minval(array) //min value of list
  
